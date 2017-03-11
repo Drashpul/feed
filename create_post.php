@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by IntelliJ IDEA.
- * User: tema_on
- * Date: 01.03.17
- * Time: 19:29
+
  */
 session_start();
 require_once 'lib/db_connect.php';

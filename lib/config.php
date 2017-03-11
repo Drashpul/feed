@@ -6,3 +6,12 @@ function get_db_config() {
         'password' => 'student' ];
 
 }
+
+function get_user_info(){
+    return [
+        'login' => 'admin',
+        'password' => 'password'
+    ];
+
+
+}

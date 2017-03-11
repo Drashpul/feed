@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by IntelliJ IDEA.
- * User: tema_on
- * Date: 03.03.17
- * Time: 8:34
- */
+
 session_start();
 require_once 'lib/db_connect.php';
 $id = $_GET['id'];

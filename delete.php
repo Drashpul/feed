@@ -2,10 +2,7 @@
 require_once 'lib/db_connect.php';
 session_start();
 /**
- * Created by IntelliJ IDEA.
- * User: tema_on
- * Date: 01.03.17
- * Time: 20:45
+
  */
 $id = $_GET['id'];
 if (!empty($id)) {

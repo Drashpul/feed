@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by IntelliJ IDEA.
- * User: tema_on
- * Date: 01.03.17
- * Time: 21:25
+
  */
 function get_post_form($path, $action = 'new', $post = null)
 {
